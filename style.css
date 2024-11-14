@@ -1,0 +1,17 @@
+.f-style{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: normal;
+    color: black;
+}
+.bg-blue{
+    background-color: blue;
+}
+.px-80{
+    padding: 0 80px;
+}
+button:hover{
+    background-color: green;
+}
